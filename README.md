@@ -1,2 +1,2 @@
-# udp
-Easy UDP Class
+# hnet  
+Easy Linux networking UDP class
