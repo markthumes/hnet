@@ -1,5 +1,5 @@
 # hnet  
-Easy Linux networking UDP class
+Easy Linux networking UDP/TCP classes
 
 Example Usage:
 
